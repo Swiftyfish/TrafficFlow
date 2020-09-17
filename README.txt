@@ -4,7 +4,7 @@ Traffic Flow Project - Josh Swift
 
 TrafficFlowAnalysis is made up of several sections that can perform different tasks, all of which are labelled
 
-In all of the below progams other than where a variable is being explicitly varied, the following
+In all of the below programs other than where a variable is being explicitly varied, the following
 parameters can be modified:
 	pslow, number between 0 and 1
 	RoadLength, positive integer
