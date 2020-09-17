@@ -1,4 +1,4 @@
-Traffic Flow Project - Josh Swift
+Traffic Flow Project - Josh Swift - 2018
 
 8 Function .m files and one .m file 'TrafficFlowAnalysis' used to analyse data
 
