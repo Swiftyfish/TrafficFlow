@@ -4,7 +4,7 @@ Traffic Flow Project - Josh Swift - 2018
 
 TrafficFlowAnalysis is made up of several sections that can perform different tasks, all of which are labelled
 
-![Output sample](https://github.com/Swiftyfish/TrafficFlow/ezgif-5-b13a73b15d82.gif)
+![Output sample](https://github.com/Swiftyfish/TrafficFlow/raw/ezgif-5-b13a73b15d82.gif)
 In all of the below programs other than where a variable is being explicitly varied, the following
 parameters can be modified:
 	pslow, number between 0 and 1
